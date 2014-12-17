@@ -1,0 +1,5 @@
+esta nueva funcion te puede servir para sumar numeros
+function suma(a,b)
+{
+	return a + b;
+}
